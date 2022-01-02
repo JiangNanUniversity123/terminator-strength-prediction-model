@@ -1,1 +1,0 @@
-# terminator-strength-prediction-model
